@@ -1,4 +1,4 @@
-# Age De Psyché (Board game
+# Age De Psyché (Board game)
 
 This project is a board game inspired by **Ticket to Ride**, except here players gather resources instead of building train routes. The game also includes a custom map editor, allowing users to create their own maps by adding points and linking them with resource requirements.
 
