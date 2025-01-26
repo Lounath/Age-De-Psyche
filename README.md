@@ -21,7 +21,7 @@ To run this project, you need:
 ## How to Compile and Run
 
 ### Step 1: Compilation
-1. Navigate to the project folder `PSYCHE_equipe_A2_B1` in your terminal.
+1. Navigate to the project folder `Age-De-Psyche` in your terminal.
 2. Run the following command to compile the program:
    ```bash
    javac @compile.list -d ./class
