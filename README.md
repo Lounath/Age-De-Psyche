@@ -54,7 +54,14 @@ Follow the on-screen instructions provided in the terminal to progress through e
 ---
 
 ## Screenshots
-*(Add screenshots of the game and map editor here to showcase the application in action.)*
+Map constructor :
+![image](https://github.com/user-attachments/assets/43e980ba-cebd-44cf-9bb9-3e7c9060685b)
+![image](https://github.com/user-attachments/assets/c39eec4b-170e-4a2e-8086-5bb3b138d758)
+
+Example of a game :
+![image](https://github.com/user-attachments/assets/a782e550-a8b0-47bf-ae32-9354c5c63b19)
+
+
 
 ---
 
